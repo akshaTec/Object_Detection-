@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Right</folder>
+	<filename>aug_image_62_0_7913.jpg</filename>
+	<path>D:\Akshat\git\cloned project\Object_Detection-\images\labeled_img\Right\aug_image_62_0_7913.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Right</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>30</ymin>
+			<xmax>515</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

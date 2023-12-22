@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Left</folder>
+	<filename>aug_image_1_0_3893.jpg</filename>
+	<path>D:\Akshat\git\cloned project\Object_Detection-\images\labeled_img\Left\aug_image_1_0_3893.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Left</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>36</ymin>
+			<xmax>551</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

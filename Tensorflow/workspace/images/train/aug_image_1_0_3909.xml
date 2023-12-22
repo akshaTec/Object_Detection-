@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Back</folder>
+	<filename>aug_image_1_0_3909.jpg</filename>
+	<path>D:\Akshat\git\cloned project\Object_Detection-\images\labeled_img\Back\aug_image_1_0_3909.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Back</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>319</xmin>
+			<ymin>35</ymin>
+			<xmax>532</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>
